@@ -149,6 +149,7 @@ CREATE TABLE `typecho_users` (
   `group` varchar(16) default 'visitor',
   `authCode` varchar(64) default NULL,
   `ip` varchar(64) default NULL,
+  `rtime` int(10) unsigned default '0',
   PRIMARY KEY  (`uid`),
   UNIQUE KEY `name` (`name`),
   UNIQUE KEY `mail` (`mail`)
