@@ -85,6 +85,7 @@ CREATE TABLE typecho_users ( "uid" INTEGER NOT NULL PRIMARY KEY,
 "group" varchar(16) default 'visitor' , 
 "authCode" varchar(64) default NULL,
 "ip" varchar(64) default NULL);
+"rtime" int(10) default '0' , 
 
 CREATE UNIQUE INDEX typecho_users_name ON typecho_users ("name");
 CREATE UNIQUE INDEX typecho_users_mail ON typecho_users ("mail");
