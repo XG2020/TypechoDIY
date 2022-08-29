@@ -3,7 +3,7 @@ Typecho_1.1（17.10.30）定制美化版
 
 ##### 新更新 Typecho_1.2.0 定制美化版
 
-美化插件来自 gogobody 修改自[小王先森](https://xwsir.cn) 的后台插件
+美化插件来自 [gogobody](https://www.ijkxs.com) 修改自[小王先森](https://xwsir.cn) 的后台插件
 
 ## 版本特点
 - 修复了头像显示问题（因国内屏蔽了Gravatar，更换为Cravatar国内源）
