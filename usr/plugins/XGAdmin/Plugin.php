@@ -5,9 +5,10 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  * Typecho-Joe-Theme配套后台美化插件
  * 
  * @package XGAdmin
- * @author XGGM
+ * @author XGGM && 小王先森
  * @version 1.1.5
  * @link https://www.xggm.com
+ * @link https://xwsir.cn/
  */
 
 require_once 'utils/utils.php';
