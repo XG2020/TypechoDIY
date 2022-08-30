@@ -1,5 +1,5 @@
 # TypechoDIY
-Typecho_1.1（17.10.30）定制美化版
+Typecho_定制美化版
 
 ##### 新更新 Typecho_1.2.0 定制美化版
 
